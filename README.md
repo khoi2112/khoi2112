@@ -6,7 +6,7 @@
 
 ## Discord
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/448134583670800386)](https://discord.com/users/448134583670800386)
+[![Discord Presence](https://lanyard.cnrad.dev/api/448134583670800386?bg=aae8f0)](https://discord.com/users/448134583670800386)
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **khoingoc456@gmail.com**
