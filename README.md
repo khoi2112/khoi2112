@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm K</h1>
 <h3 align="center">Fresher frontend dev from Vietnam</h3>
 
+![My Discord](https://discord-readme-badge.vercel.app/api?id=khoi2112#4106)
+
+
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **khoingoc456@gmail.com**
