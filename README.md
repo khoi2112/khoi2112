@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khoi2112&show_icons=true&theme=onedark&locale=en" alt="khoi2112" /></p>
 
-![alt text](https://imgur.com/a/GSYfG5Y)
+![My Remote Image](https://imgur.com/a/GSYfG5Y)
