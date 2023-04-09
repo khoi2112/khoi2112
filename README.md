@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm K</h1>
+![My Image](images/2_Stella3_8k.jpg)
 <h3 align="center">Fresher frontend dev from Vietnam</h3>
 
 - 💬 Ask me about **react**
