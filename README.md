@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm K</h1>
 <h3 align="center">Fresher frontend dev from Vietnam</h3>
 
-![My Image](images/2_Stella3_8k.jpg)
-![My Discord](https://discord-readme-badge.vercel.app/api?id=448134583670800386)
-
 ## Discord
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/448134583670800386?bg=aae8f0)](https://discord.com/users/448134583670800386)
