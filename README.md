@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm K</h1>
 <h3 align="center">Fresher frontend dev from Vietnam</h3>
 
+![My Image](images/2_Stella3_8k.jpg)
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=448134583670800386)
 
 
@@ -8,7 +9,7 @@
 
 - 📫 How to reach me **khoingoc456@gmail.com**
 
-- ⚡ Fun fact **I'm fat :D**
+- ⚡ Fun fact **I'm a fan of WLOP :>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khoi2112&show_icons=true&theme=onedark&locale=en&layout=compact" alt="khoi2112" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khoi2112&show_icons=true&theme=onedark&locale=en" alt="khoi2112" /></p>
-
-![My Image](images/2_Stella3_8k.jpg)
