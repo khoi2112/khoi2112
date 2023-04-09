@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khoi2112&show_icons=true&theme=onedark&locale=en" alt="khoi2112" /></p>
 
-![My Image](images/2_Stella3_8k.jpg
+![My Image](images/2_Stella3_8k.jpg)
