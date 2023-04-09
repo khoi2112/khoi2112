@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm K</h1>
 <h3 align="center">Fresher frontend dev from Vietnam</h3>
 
-## Discord
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/448134583670800386?bg=aae8f0)](https://discord.com/users/448134583670800386)
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **khoingoc456@gmail.com**
@@ -12,7 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@khoinh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@khoinh" height="30" width="40" /></a>
+## Discord
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/448134583670800386?bg=aae8f0)](https://discord.com/users/448134583670800386)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
