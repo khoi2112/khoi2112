@@ -4,7 +4,9 @@
 ![My Image](images/2_Stella3_8k.jpg)
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=448134583670800386)
 
+## Discord
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/448134583670800386)](https://discord.com/users/448134583670800386)
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **khoingoc456@gmail.com**
